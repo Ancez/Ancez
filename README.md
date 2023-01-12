@@ -1,4 +1,4 @@
-🚀 Hi, I'm @Ancez, a developer on a mission to build impactful applications that shape the world for the better 🌍
+🚀 Hi, I'm Luke, a developer on a mission to build impactful applications that shape the world for the better 🌍
 
 💻 I specialize in using the latest technologies and best practices to create efficient and user-friendly cross-platform applications. My passion is Ruby on Rails, where I leverage gems and packages to bring my projects to new heights 🔝
 
