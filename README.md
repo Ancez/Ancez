@@ -1,7 +1,9 @@
-🚀 Hi, I'm Luke, a developer on a mission to build impactful applications that shape the world for the better 🌍
+🚀 Hi, I'm Luke, a developer on a mission of building impactful web applications that shape our world for the better 🌍
 
-💻 I specialize in using the latest technologies and best practices to create efficient and user-friendly cross-platform applications. My passion is Ruby on Rails, where I leverage gems and packages to bring my projects to new heights 🔝
+💻 I specialize in using the latest technologies and best practices to create efficient and user-friendly cross-platform web applications. My passion is coding, specifically in Ruby on Rails. I leverage gems and packages to bring my projects to new heights 🔝
 
-📈 I'm always pushing my skills and knowledge to the next level, staying ahead of the curve in web, mobile, and VR development 🚀. Currently, I'm working on a game-changing project auto-crypto.io and am always open to new connections and opportunities to collaborate on innovative projects! 🤝
+📈 I'm always pushing my skills and knowledge to the next level, staying ahead of the curve in everything tech related 🚀 (I try to okay)
 
-📬 Let's connect on LinkedIn: https://www.linkedin.com/in/lukaszcz/ and Twitter: https://twitter.com/lukev3422 and let's build a better future together!
+📬 Let's connect on LinkedIn: https://www.linkedin.com/in/lukaszcz/ and X: https://x.com/lc_ancez.
+
+Let's build a better, brighter future together!
