@@ -2,7 +2,7 @@
 
 ### A passionate full stack developer based in the UK
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ancez&label=Profile views&color=0e75b6&style=flat" alt="Ancez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ancez&label=Profile%20views&color=0e75b6&style=flat" alt="ancez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ancez" alt="Ancez" /></a> </p>
 
